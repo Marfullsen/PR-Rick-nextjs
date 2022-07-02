@@ -45,7 +45,7 @@ function Home() {
   // }, []);
 
   useEffect(() => {
-    fetch("http://localhost:3000/api/characters")
+    fetch("/api/characters")
       .then(res => res.json())
       .then( (data) => {
         setCharacters(data.data.results);

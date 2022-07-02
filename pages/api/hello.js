@@ -3,7 +3,7 @@
 export default function handler(req, res) {
 
   // console.log("hola");
-  // console.log(req);
+  console.log(req.host);
   
   // if (req.method == "GET") {
 
