@@ -1,3 +1,7 @@
+# Rick Next.js
+
+Recursos de la cátedra de introducción a Next.js por Benjamín Torres
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
